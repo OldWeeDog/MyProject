@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="text">Sign in</string>
+    <string name="text_view">User Name</string>
+    <string name="name">Enter Name</string>
+    <string name="text_View">Password</string>
+    <string name="edit_text">Password</string>
+    <string name="button">Sign In</string>
+    <string name="text_view3">New User</string>
+    <string name="button2">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_user">New User?</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
